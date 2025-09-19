@@ -18,7 +18,7 @@ Here are some of the languages, frameworks, and tools I work with:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS](https://img.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 #### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -32,8 +32,6 @@ Here are some of the languages, frameworks, and tools I work with:
 
 ---
 
-### Get in Touch!
 
-I'm always open to new opportunities and collaborations. Feel free to connect with me!
 
 <p align="center">**DOORS ARE FOR PEOPLE WITH NO IMAGINATION.**</p>
