@@ -10,7 +10,6 @@ I'm an aspiring full-stack developer with a passion for building creative soluti
 
 ---
 
-![0c5e0d38-0298-4bd1-9b52-1e900f338b5d](https://github.com/user-attachments/assets/9b3c3e87-c364-4ceb-b7ab-4c7522c3bd4d)
 
 
 
@@ -21,7 +20,7 @@ Here are some of the languages, frameworks, and tools I work with:
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![0c5e0d38-0298-4bd1-9b52-1e900f338b5d](https://github.com/user-attachments/assets/40fa7f43-d502-463a-bd6a-ed6e4dd35ba9)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
