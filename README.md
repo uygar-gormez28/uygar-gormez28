@@ -6,7 +6,7 @@ I am a **Computer Engineer** passionate about building creative, scalable soluti
 
 - 🚀 Currently working on **personal projects** and open for **freelance opportunities**.
 - 🌱 Actively expanding my expertise in **Python** and **Full-stack web development**.
-- 💼 Recently completed an 8-week intensive Data Science & ML internship at **LotusAI**.
+- 💼 Recently completed an 3-Month intensive Data Science & ML internship at **LotusAI**.
 - 🌐 Explore my work: **[uygar-dev.com](https://uygar-dev.com)**.
 - 📫 Reach me at: **uygrgrmz@gmail.com**.
 
